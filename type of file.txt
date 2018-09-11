@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 context.fillRect...
+=======
+I think that this is not a text.txt
+>>>>>>> 36d698ac87933a450952e91b079b5cd65e08f0ea
